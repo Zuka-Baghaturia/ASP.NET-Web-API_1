@@ -1,0 +1,6 @@
+@WebApplication_Zuka_HostAddress = http://localhost:5073
+
+GET {{WebApplication_Zuka_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
